@@ -29,7 +29,7 @@
     }
   },
   "sprite": "https://openmaptiles.github.io/osm-bright-gl-style/sprite",
-  "glyphs": "https://api.maptiler.com/tiles/v3-openmaptiles/tiles.json?key=FMcvIZXyPGRplCRVs1ex",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=FMcvIZXyPGRplCRVs1ex",
   "layers": [
     {
       "id": "background",
